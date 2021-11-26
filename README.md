@@ -8,4 +8,4 @@ https://mende.alwaysdata.net/site
 [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
 
 ## Fonctionnement
-Des indices sont disséminés dans la ville
+Des indices sont disséminés dans la ville.
