@@ -9,3 +9,4 @@ https://mende.alwaysdata.net/site
 
 ## Fonctionnement
 Des indices sont disséminés dans la ville.
+Il faut avoir un scanner de code QR pour jouer
