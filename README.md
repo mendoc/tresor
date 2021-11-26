@@ -8,5 +8,5 @@ https://mende.alwaysdata.net/site
 [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
 
 ## Fonctionnement
-Des indices sont disséminés dans la ville.
-Il faut avoir un scanner de code QR pour jouer
+- Des indices sont disséminés dans la ville.
+- Il faut avoir un scanner de code QR pour jouer
