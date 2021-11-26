@@ -5,4 +5,4 @@ Site de chasse au trésor
 https://mende.alwaysdata.net/site
 
 ## Auteur
-Dimitri ONGOUA
+[Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
