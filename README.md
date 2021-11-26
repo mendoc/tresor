@@ -7,4 +7,4 @@ https://mende.alwaysdata.net/site
 ## Auteur
 [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
 
-##
+## Fonctionnement
