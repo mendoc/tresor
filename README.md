@@ -12,3 +12,4 @@ https://mende.alwaysdata.net/site
 
 ## Auteur
 Twitter: [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
+Medium: [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
