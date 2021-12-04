@@ -11,5 +11,5 @@ https://mende.alwaysdata.net/site
 - Le but est de résoudre des énigmes
 
 ## Auteur
-Twitter: [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
+Twitter: [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)  
 Medium: [@Dimitri ONGOUA](https://dimitriongoua.medium.com/)
