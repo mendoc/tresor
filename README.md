@@ -2,7 +2,7 @@
 Site de chasse au trésor.
 
 ## Stack
-
+- React
 
 ## Lien du site
 https://mende.alwaysdata.net/site
