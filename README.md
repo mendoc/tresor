@@ -1,5 +1,5 @@
 # tresor
-Site de chasse au trésor.
+Site de chasse au trésor
 
 ## Stack
 - React
