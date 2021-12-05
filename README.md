@@ -18,3 +18,4 @@ Twitter: [@Dimitri ONGOUA](https://twitter.com/DimitriOngoua)
 Medium: [@Dimitri ONGOUA](https://dimitriongoua.medium.com/)
 
 ## LICENSE
+MIT
